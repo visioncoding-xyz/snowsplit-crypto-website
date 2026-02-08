@@ -1,4 +1,4 @@
-# SnowSplit
+# Crypto Project Landing Page
 
 A modern, festive-themed landing page for **$SNOWS**, a revolutionary Solana token that rewards holders automatically through an innovative TaxSplit mechanism.
 
